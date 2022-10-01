@@ -1,6 +1,6 @@
 body {
-    color:black;
-    background-color: rgba(129, 32, 129, 0.575);
+    color: white;
+    background-color: rgb(213, 140, 228);
     font-family: Arial, Helvetica, sans-serif;
      
 }
@@ -9,7 +9,7 @@ ul {
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
-    padding: 16px; ;
+    padding: 16px; 
     
 }
 a {
