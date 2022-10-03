@@ -14,7 +14,7 @@ body{
     width: 300px;
     height: 400px;
     border-radius: 5px;
-    border: 1px solid #333;
+    border: 1px solid rgb(248, 242, 242);
     overflow: hidden;
 }
 .card_img {
@@ -26,7 +26,7 @@ body{
 
 .card_img img {
     width: 100%;
-    height: auto;
+    height: 100%;
     
     
 
@@ -40,16 +40,17 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 10Px;
+   
 
 }
 .title {
     text-transform: uppercase;
     font-size: 18px;
+    margin: 0;
 
 }
 .card_texts p {
-    padding:0 10px;
+    padding:0 20px;
 }
 .btn a {
     padding: 2px 20px;
