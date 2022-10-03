@@ -26,6 +26,9 @@ a {
 }
 .center {
     text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
 h1 {
     color: rgb(103, 36, 109);
@@ -51,4 +54,8 @@ footer p {
 }
 nav a:hover {
    color:rgb(233, 223, 236)
+}
+.box{
+    text-align: center;
+    font-size: 30px;
 }
